@@ -87,3 +87,4 @@ For future developments, I should learn more concepts of javascript and implemen
 ## Author
 
 - Twitter - [@romila003](https://www.twitter.com/romila003)
+- Frontend Mentor - [@romila2003](https://www.frontendmentor.io/profile/romila2003)
