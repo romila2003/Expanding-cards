@@ -26,11 +26,11 @@ This is apart of the 50 projects in 50 days challenge and this is the first proj
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Expanding-cards/blob/main/mobile%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Expanding-cards/blob/main/desktop%20preview.PNG)
 
 
 ### Links
